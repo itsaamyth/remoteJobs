@@ -4,7 +4,7 @@
 - http://localhost:8000/api/jobs
 
 # screenshots are :
-! [screenshot] (Screenshot (198).png)
+https://github.com/itsaamyth/remoteJobs/blob/master/screenshots/Screenshot%20(198).png
 ! [screenshot] (Screenshot (199).png)
 ! [screenshot] (Screenshot (200).png)
 ! [screenshot] (Screenshot (201).png)
